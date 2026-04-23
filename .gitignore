@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+# Environment & Secrets
+.env
+.env.local
+# Project Specific
+logs/
+output/
+resources-temp/
+*.log
+# OS
+.DS_Store
+Thumbs.db
+# IDE
+.vscode/
+.idea/
+# Testing & Coverage
+coverage/
+.nyc_output/
+test-results/
+playwright-report/
